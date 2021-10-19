@@ -4,3 +4,8 @@
   text-align: center;
   text-decoration: underline;
 }
+
+.App-footer {
+  text-align: center;
+  margin: 20px 0;
+}
