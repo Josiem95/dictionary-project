@@ -1,8 +1,17 @@
+body {
+  background: #aee4da;
+}
+
+a {
+  color: #024a57;
+}
+
 .App-header {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: 100px;
   text-align: center;
   text-decoration: underline;
+  color: #024a57;
 }
 
 .App-footer {

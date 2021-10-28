@@ -1,1 +1,39 @@
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  margin: 20px 0;
+}
 
+.Dictionary form {
+  text-align: center;
+}
+
+.Dictionary input {
+  width: 80%;
+  padding: 7px 5px;
+  border-radius: 5px;
+  border: 3px solid #aee4da;
+  color: #024a57;
+  outline: none;
+  font-weight: bold;
+}
+
+.Dictionary h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: #024a57;
+}
+
+.Dictionary header {
+  color: #024a57;
+}
+
+.Dictionary .hint {
+  color: #024a57;
+  font-size: 11px;
+  margin-top: 7px;
+  margin-left: 110px;
+}
